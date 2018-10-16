@@ -7,7 +7,7 @@
     <wxc-icon name="cry" class="chat-face-icon"></wxc-icon>
      <wxc-icon name="play" class="chat-other-icon"></wxc-icon>
   </div>  
- </div
+ </div>
 </template>
 <script>
 import { WxcIcon } from "weex-ui";
